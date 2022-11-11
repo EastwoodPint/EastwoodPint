@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EastwoodPint
 - 👀 I’m interested in Ethereum.
 - 🌱 I’m currently learning entering commands in the Terminal.
-- 💞️ I’m looking to collaborate on Ethereum2.
+- 💞️ I’m looking to collaborate on Ethereum.
 - 📫 How to reach me pinteastwood@gmail.com
 
 <!---
